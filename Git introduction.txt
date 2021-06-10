@@ -1,0 +1,14 @@
+Git init - to initialize git repository in the root folder
+
+Git status (to check the status of the file)
+git commit (for adding a message/comment on a file you have pushed to a repository)
+Git add (for adding files to a repository)
+git push (for pushing files to repository)
+Git merge (to merge branches together)
+git clone (for copying a remote repository on your machine)
+Git pull (for synchronising the remote repository files with your files on your local host)
+git checkout (for switching branch)
+Git log (for viewing log files on a repository)
+git remote -v (for checking the remote url of a repository)
+Git branch (for checking current branch on the repository)
+Git remote set url (for setting/changing a remote url to a repository)
